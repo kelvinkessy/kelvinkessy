@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelvinkessy
-- 👀 I’m interested in web developing, android applications.
+- 👀 I’m interested in html, javaa, JavaScript,css,c++ and python.
 - 🌱 I’m currently learning open source technology
 - 💞️ I’m looking to collaborate on open sourcing
 - 📫 How to reach me  kelvinkessy47@gmail.com
